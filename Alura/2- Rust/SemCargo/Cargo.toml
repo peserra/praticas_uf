@@ -1,0 +1,5 @@
+[package]
+
+name = "alura_rust"
+version = "0.1.0"
+authors = ["Pedro Serra <pedro@serra.dv>"]
